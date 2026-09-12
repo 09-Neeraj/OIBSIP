@@ -110,7 +110,7 @@ The layout automatically adapts to different screen sizes using CSS media querie
 
 ### Mobile View
 
-![Calculator Desktop](screenshots/calculator-mobile.png)
+![Calculator Mobile](screenshots/calculator-mobile.png)
 
 > Replace the placeholder paths with Markdown image syntax after adding the screenshots to the `screenshots` folder.
 
