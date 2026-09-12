@@ -81,7 +81,7 @@ The website is optimized for:
 - 📟 Tablet
 ![Tribute Desktop](screenshots/tribute-tablet.png)
 - 📱 Mobile
-![Tribute Desktop](screenshots/calculator-mobile.png)
+![Tribute Desktop](screenshots/tribute-mobile.png)
 ### 🎨 Modern UI
 
 The design includes:
