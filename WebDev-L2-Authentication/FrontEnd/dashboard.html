@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Auth System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="dashboard-container">
+
+    <div class="dashboard-card">
+
+        <div class="dashboard-header">
+            <div>
+                <p class="welcome-text">Welcome</p>
+                <h1 id="dashboardUsername">User</h1>
+            </div>
+
+            <button id="logoutBtn" class="logout-btn">
+                Logout
+            </button>
+        </div>
+
+        <div class="profile-info">
+
+            <div class="info-box">
+                <span>Username</span>
+                <strong id="userUsername">-</strong>
+            </div>
+
+            <div class="info-box">
+                <span>Email</span>
+                <strong id="userEmail">-</strong>
+            </div>
+
+        </div>
+
+        <div class="dashboard-message">
+            <h2>Authentication Successful 🎉</h2>
+            <p>
+                You have successfully accessed the protected dashboard.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
